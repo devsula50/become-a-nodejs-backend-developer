@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "kill-port": "kill-port 3000"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
