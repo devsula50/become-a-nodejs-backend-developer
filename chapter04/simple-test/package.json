@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chapter04": "file:../simple-package",
+    "sample-package": "file:../simple-package"
+  }
+}
